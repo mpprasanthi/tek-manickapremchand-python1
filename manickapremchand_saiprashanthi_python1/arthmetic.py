@@ -1,5 +1,6 @@
 '''
-A class is a structure that allows you to combine the data and functionality associated with a particular task.
+A class is a structure that allows you to combine the data and functionality associated with a
+particular task.
 The variables of a class are attributes. The functions of a class are methods.
 '''
 class Arithmetic:
@@ -30,3 +31,4 @@ class Arithmetic:
 
     def print_self(self):
         print(self)
+
